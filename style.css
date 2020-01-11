@@ -1,0 +1,83 @@
+/* 中英文名字 */
+.name{ line-height:20px; text-align:left}
+.en p{ margin-top:30px; margin-bottom:30px;font-size: 36px; font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';font-weight:700;font-style:normal;}
+.zh p{ margin-top:30px; margin-bottom:30px;font-size: 28px; font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';font-weight:500;font-style:normal;}
+
+/* 职务介绍*/
+.self_photo{  display:inline;  margin-left:5px; } 
+.about{ float:left; display:inline;  margin-left:-100px; }
+.about h1{color:#353689;font-size:2em;font-weight:700;}
+.about h2{font-size:1.4em;font-weight:600;}
+.about h3{font-size:1.2em;font-weight:500;margin-top:10px;margin-bottom:10px;}
+
+/*页内导航*/
+.inpage_hyperlink{
+	word-break:break-all;
+}
+.inpage_hyperlink a{
+	 padding-left:30px;
+	/* display:inline-block;
+	width:20%; */
+	text-decoration:		none;
+	color:					#003399;
+}
+.inpage_hyperlink a:hover{
+	text-decoration:		none;
+	color:					#ad1400;
+}
+
+/*研究兴趣*/
+.interest_list h2{font-size:1.4em;font-weight:600;margin-top:10px;margin-bottom:10px;}
+.interest_list h3{font-size:1.2em;font-weight:500;margin-top:0px;margin-bottom:0px;}
+
+/*教育经历*/
+.school_image{  display:inline;  margin-left:5px; } 
+.degree{ float:left; display:inline;  margin-left:-200px; }
+.degree h3{font-size:1.2em;font-weight:400;margin-top:4px;margin-bottom:4px;}
+
+/*研究兴趣*/
+.work_list h3{font-size:1.2em;font-weight:600;margin-top:10px;margin-bottom:10px;}
+.work_list h4{font-size:1.0em;font-weight:400;margin-top:0px;margin-bottom:0px;}
+
+/*项目列表*/
+.project_list h3{font-size:1.2em;font-weight:600;margin-top:10px;margin-bottom:10px;}
+.project_list h4{font-size:1.0em;font-weight:400;margin-top:0px;margin-bottom:0px;}
+
+a{
+	text-decoration:		none;
+	color:					#003399;
+}
+
+a:hover{
+	text-decoration:		none;
+	color:					#ad1400;
+}
+
+strong{
+	font-weight:			bold;
+}
+
+body{font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;color:#222;font-size:0.8em;font-weight:400;}
+dd,td{font-family:Verdana, Arial, Helvetica;color:#222;font-size:1em;font-weight:400;text-align:left;}
+h1{color:#353689;font-size:2em;font-weight:700;}
+h2{font-size:1.2em;margin-top:-5px;font-weight:700;}
+h3{font-size:1em;font-weight:500;}
+h4{font-size:1em;font-weight:700;}
+table.bild td{padding:10px;}
+address{border:1px;margin:20px;}
+div.content{width:800px;max-width:800px;}
+.main_link{
+	font-size:			100%;		
+	font-family:		georgia;
+	font-weight:		600;
+	color:				#08529b;
+}
+.main_link:hover{
+	font-size:			100%;		
+	font-family:		georgia;
+	font-weight:		600;
+	color:				#FF4D01;
+}
+
+
+
